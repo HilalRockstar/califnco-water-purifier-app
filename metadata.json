@@ -1,0 +1,6 @@
+{
+  "name": "Califnco Water Purifiers",
+  "description": "Premium water purifier e-commerce web application featuring customer store, B2B dealer wholesale portal, service booking, and admin management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
