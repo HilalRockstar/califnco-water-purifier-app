@@ -210,7 +210,6 @@ export const Footer: React.FC = () => {
             <span>Privacy Policy</span>
             <span>Warranty Terms</span>
             <span>B2B Dealer Agreement</span>
-            <span className="text-cyan-400 font-medium">Ready for GitHub & Vercel</span>
           </div>
         </div>
 
